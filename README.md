@@ -5,7 +5,7 @@ A simple Alumni Tracking System mini project developed for OOSE.
 
 ## 📌 About the Project
 
-Alumni Tracking System is a simple mini project developed as part of the Object Oriented Software Engineering (OOSE) subject.
+Alumni Tracking System is a simple mini project developed as part of the Object Oriented Software Engineering (OOSE) subject. 
 
 The project focuses on managing and tracking alumni information through a simple system.
 
