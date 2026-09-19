@@ -31,12 +31,10 @@ The project focuses on managing and tracking alumni information through a simple
 
 ## 🎥 Project Demo
 
-[▶️ Watch Alumni Tracking System Demo]()
+[▶️ Watch Alumni Tracking System Demo](video/Alumni tracking system app - screen record.mp4)
 
 ## 📚 Project Type
 
 Mini Project – Object Oriented Software Engineering (OOSE)
 
-## 👩‍💻 Author
 
-B.Tech Computer Science and Business Systems
